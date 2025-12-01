@@ -113,4 +113,5 @@ npm run test
 📤 Postman Collection
 
 A Postman collection file (internship.postman_collection.json) is included for easy testing.
+🔗 [internship.postman_collection.json](./internship.postman_collection.json) is included for easy testing.
 
