@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"name\": \"Saurabh\",\r\n  \"email\": \"test@example.com\",\r\n  \"password\": \"mypassword\"\r\n}\r\n",
+					"raw": "{\r\n  \"name\": \"test\",\r\n  \"email\": \"test@example.com\",\r\n  \"password\": \"mypassword\"\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -74,7 +74,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"title\": \"Finish NestJS assignment\",\r\n  \"description\": \"Submit before deadline\"\r\n}\r\n",
+					"raw": "{\r\n  \"title\": \"Finish  assignment\",\r\n  \"description\": \"Submit before deadline\"\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
