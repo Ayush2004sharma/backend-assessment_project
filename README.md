@@ -88,23 +88,29 @@ Swagger UI available at:
 
 📌 Available Endpoints
 👤 User
+
 Method	Endpoint	Auth	Description
-POST	/users/register	❌	Create account
-POST	/auth/login	❌	Login and get token
-GET	/users/me	✅	Get logged-in user
+
+POST	    /users/register	  ❌	     Create account
+POST	    /auth/login	      ❌	     Login and get token
+GET	      /users/me	        ✅	     Get logged-in user
 
 
 🗂 Tasks
+
 Method	Endpoint	Auth	Description
-POST	/tasks	✅	Create task
-GET	/tasks	✅	List tasks
-GET	/tasks/:id	✅	Retrieve task
-PATCH	/tasks/:id	✅	Update task
-DELETE	/tasks/:id	✅	Delete task
+
+POST	    /tasks	          ✅	     Create task
+GET	      /tasks	          ✅	     List tasks
+GET	      /tasks/:id	      ✅	     Retrieve task
+PATCH	    /tasks/:id	      ✅	     Update task
+DELETE	  /tasks/:id	      ✅	     Delete task
+
 🧪 Running Tests
+
 npm run test
 
 📤 Postman Collection
 
-A Postman collection file (postman_collection.json) is included for easy testing.
+A Postman collection file (internship.postman_collection.json) is included for easy testing.
 
